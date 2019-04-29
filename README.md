@@ -79,17 +79,3 @@ INSERT INTO Products(Code,Name,Price,Manufacturer) VALUES(10,'DVD burner',180,2)
 19. Apply a 10% discount to all products.
 
 20. Apply a 10% discount to all products with a price larger than or equal to $120.
-
-## Aggregates
-
-Table
-
-| name        | continent | area    | population | gdp          |
-|-------------|-----------|---------|------------|--------------|
-| Afghanistan | Asia      | 652230  | 25500100   | 20343000000  |
-| Albania     | Europe    | 28748   | 2831741    | 12960000000  |
-| Algeria     | Africa    | 2381741 | 37100000   | 188681000000 |
-| Andorra     | Europe    | 468     | 78115      | 3712000000   |
-| Angola      | Africa    | 1246700 | 20609294   | 100990000000 |
-
-21. For each continent show the continent and number of countries with populations of at least 10 million.
